@@ -11,7 +11,7 @@ A brief overview of  files in the folder :
 [Experiment 3](https://github.com/aswath950/ml-projects/blob/main/Evolutionary%20Machine%20Learning/Experiment-3.jl): In this ML and Evolutionary ML Experiment. We create a neural network which would act as the medium to test our Evolutionary strategies algorithm, Evolution strategies is a commonly used EML algorithms along with
 the genetic algorithm. We used it to compare the two algorithms and how they differ in training the neural network. Evolutionary Strategies have better accuracy in training them as it is more suited to continuous values.
 
-Experiment - 4: We use a Particle Swarm Optimization algorithm to train neural network weights. Like previous experiments, we use the Genetic Algorithm and Backprogation algorithms as a reference to compare the accuracies  of this algorithm. 
+[Experiment - 4](https://github.com/aswath950/ml-projects/blob/main/Evolutionary%20Machine%20Learning/Experiment-4.jl): We use a Particle Swarm Optimization algorithm to train neural network weights. Like previous experiments, we use the Genetic Algorithm and Backprogation algorithms as a reference to compare the accuracies  of this algorithm. 
 
 Experiment - 5: In this experiment, We compare a 3-layer Neural Network trained with backpropagation vs its weights being trained through a couple of EML algorithms such as  Genetic Algorithms, Evolution Strategies and Particle Swarm Optimization. This experiment is used to understand if multilayer networks are trained although EML algorithms provide better, equal or lesser performance. 
 
