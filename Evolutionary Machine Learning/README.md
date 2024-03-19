@@ -15,4 +15,4 @@ the genetic algorithm. We used it to compare the two algorithms and how they dif
 
 [Experiment - 5](https://github.com/aswath950/ml-projects/edit/main/Evolutionary%20Machine%20Learning/Experiment-5.jl): In this experiment, We compare a 3-layer Neural Network trained with backpropagation vs its weights being trained through a couple of EML algorithms such as  Genetic Algorithms, Evolution Strategies and Particle Swarm Optimization. This experiment is used to understand if multilayer networks are trained although EML algorithms provide better, equal or lesser performance. 
 
-Experiment - 6: In this experiment, we use the package XCS to compare it to backpropagation and other EML algorithms used in past experiments.
+[Experiment - 6](https://github.com/aswath950/ml-projects/blob/main/Evolutionary%20Machine%20Learning/Experiment-6.jl): In this experiment, we use the package XCS to compare it to backpropagation and other EML algorithms used in past experiments.
